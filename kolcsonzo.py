@@ -151,7 +151,7 @@ def datum_bekeres():
 
 
 def kezdo_adatok():
-    kolcsonzo = Autokolcsonzo("Egyszerű Autókölcsönző")
+    kolcsonzo = Autokolcsonzo("Mobilauto+ Kft")
 
     auto1 = Szemelyauto("ABC-123", "Toyota Corolla", 15000, 5)
     auto2 = Szemelyauto("DEF-456", "Suzuki Swift", 12000, 5)
